@@ -23,12 +23,6 @@ Indian Institute of Information Technology, Kottayam
 
 ---
 
-## Portfolio
-[sivapa08.github.io/Sketchflow](https://sivapa08.github.io/Sketchflow/)
-
----
-
-
 ## Connect with Me
 - GitHub: [@sivapa08](https://github.com/sivapa08)  
 
