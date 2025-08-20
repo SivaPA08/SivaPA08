@@ -28,12 +28,8 @@ Indian Institute of Information Technology, Kottayam
 
 ---
 
-## GitHub Stats
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivapa08&show_icons=true&theme=default)
-
----
 
 ## Connect with Me
 - GitHub: [@sivapa08](https://github.com/sivapa08)  
-- LinkedIn: *(add your link if you want)*  
+
 
