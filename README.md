@@ -10,7 +10,6 @@ Indian Institute of Information Technology, Kottayam
 
 ## About Me
 - I enjoy building projects in web development and system programming.  
-- Currently learning Go, React, and System Design.  
 - I use Fedora (and Neovim btw).  
 - Interested in open source contributions and collaborative problem solving.  
 
