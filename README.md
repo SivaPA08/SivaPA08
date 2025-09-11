@@ -18,7 +18,7 @@ Indian Institute of Information Technology, Kottayam
 ## Tech Stack
 - Languages: C, Java, Go, JavaScript, Python  
 - Web: HTML, CSS, React, Node.js  
-- Tools: Git, GitHub, Linux, Neovim, VS Code  
+- Tools: Git, GitHub, Linux, Neovim
 
 ---
 
