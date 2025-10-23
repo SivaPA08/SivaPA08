@@ -22,7 +22,7 @@ Indian Institute of Information Technology, Kottayam
 
 ---
 
-## Connect with Me
-- GitHub: [@sivapa08](https://github.com/sivapa08)  
+<!--## Connect with Me
+- GitHub: [@sivapa08](https://github.com/sivapa08)  -->
 
 [![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaPA08)](https://github.com/SivaPA08/github-readme-stats)
