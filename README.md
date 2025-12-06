@@ -10,13 +10,13 @@ Indian Institute of Information Technology, Kottayam
 
 ## About Me
 - I enjoy building projects in web development and system programming.  
-- I use Fedora (and Neovim btw).  
+- I use Linux (and Neovim btw).  
 - Interested in open source contributions and collaborative problem solving.  
 
 ---
 
 ## Tech Stack
-- Languages: C, Java, Go, JavaScript, Python  
+- Languages: C, Java, Go, JavaScript
 - Web: HTML, CSS, React, Node.js  
 - Tools: Git, GitHub, Linux, Neovim
 
