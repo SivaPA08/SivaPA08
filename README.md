@@ -26,4 +26,7 @@ Indian Institute of Information Technology, Kottayam
 - GitHub: [@sivapa08](https://github.com/sivapa08)  -->
 
 [![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaPA08)](https://github.com/SivaPA08/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&layout=compact)
+
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=SivaPA08&limit=5&combine_all_yearly_contributions=true)
