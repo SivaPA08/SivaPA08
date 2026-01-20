@@ -27,5 +27,6 @@ Indian Institute of Information Technology, Kottayam
 
 [![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaPA08)](https://github.com/SivaPA08/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&layout=compact&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&layout=compact&width=400)
+
 
