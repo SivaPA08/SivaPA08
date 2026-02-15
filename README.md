@@ -31,7 +31,7 @@ Indian Institute of Information Technology, Kottayam
 
 ![](https://github-readme-stats-rouge-ten-78.vercel.app/api?username=SivaPA08&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPA08&hide=javascript,html)
 
